@@ -1,10 +1,6 @@
 # Modern-Endpoint-Management-with-Intune-Suite
 This project demonstrates the implementation of a Zero Trust security model by leveraging the Microsoft Intune Suite to manage, secure, and automate endpoint administration.
 
-# Important note: 
-I design, implement the entire project from home. I have a physical server running Windows Server 2022 Data Centre and I setup Hyper-V with 2 secondary server on a VM for failover (cluster server).
-
-
 # Modern Endpoint Management with Microsoft Intune Suite
 This repository is a chronicle of my successful journey to implement a cloud-first endpoint management solution using the Microsoft Intune Suite. It contains the complete project documentation, including my initial project plan, the technical best practices I discovered along the way, and a detailed knowledge base I created to document my work.
 
