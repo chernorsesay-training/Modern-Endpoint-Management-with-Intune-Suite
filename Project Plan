@@ -1,4 +1,8 @@
 # Modern Endpoint Management with Intune Suite: Project Plan
+
+# Important note: 
+The entire project was carried out from home. I have a physical server running Windows Server 2022 Data Centre and I setup Hyper-V with 2 secondary server on a VM for failover (cluster server). 
+
 ## 1. Project Overview and Goals
 This project aims to implement a comprehensive, cloud-native endpoint management solution using the Microsoft Intune Suite. The primary goal is to enhance device security, streamline management processes, improve user experience, and ensure regulatory compliance for all corporate and user-owned devices.
 
